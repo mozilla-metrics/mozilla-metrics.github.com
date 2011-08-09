@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mozilla</groupId>
+  <artifactId>bagheera</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110809001149</lastUpdated>
+  </versioning>
+</metadata>
