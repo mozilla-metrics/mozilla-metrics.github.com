@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.maxmind</groupId>
+  <artifactId>maxmind-geoip</artifactId>
+  <versioning>
+    <release>1.2.5</release>
+    <versions>
+      <version>1.2.5</version>
+    </versions>
+    <lastUpdated>20120117212716</lastUpdated>
+  </versioning>
+</metadata>
