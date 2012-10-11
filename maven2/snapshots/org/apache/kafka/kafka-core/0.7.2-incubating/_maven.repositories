@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Oct 11 11:24:04 PDT 2012
+kafka-core-0.7.2-incubating.jar>=
+kafka-core-0.7.2-incubating.pom>=

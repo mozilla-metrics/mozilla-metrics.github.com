@@ -3,10 +3,11 @@
   <groupId>org.apache.kafka</groupId>
   <artifactId>kafka-core</artifactId>
   <versioning>
-    <release>0.7.0</release>
+    <release>0.7.2-incubating</release>
     <versions>
-      <version>0.7.0</version>
+      <version>0.7.1-incubating</version>
+      <version>0.7.2-incubating</version>
     </versions>
-    <lastUpdated>20120620233209</lastUpdated>
+    <lastUpdated>20121011182404</lastUpdated>
   </versioning>
 </metadata>
