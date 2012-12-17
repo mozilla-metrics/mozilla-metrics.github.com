@@ -4,10 +4,8 @@
   <artifactId>akela</artifactId>
   <versioning>
     <versions>
-      <version>0.2-SNAPSHOT</version>
-      <version>0.3-SNAPSHOT</version>
-      <version>0.4-SNAPSHOT</version>
+      <version>0.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120613183442</lastUpdated>
+    <lastUpdated>20121025180034</lastUpdated>
   </versioning>
 </metadata>
