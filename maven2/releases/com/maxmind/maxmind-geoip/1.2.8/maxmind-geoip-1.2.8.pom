@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.maxmind</groupId>
+	<artifactId>maxmind-geoip</artifactId>
+	<version>1.2.8</version>
+	<name>MaxMind GeoIP</name>
+	<description>MaxMind GeoIP library.</description>
+	<url>http://www.maxmind.com/en/geolocation_landing</url>
+	<distributionManagement>
+		<downloadUrl>http://www.maxmind.com/en/geolocation_landing</downloadUrl>
+	</distributionManagement>
+</project>
